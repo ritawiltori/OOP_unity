@@ -1,12 +1,6 @@
 # oop unity
 
 
-namespace oop
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
 
 
             List<Spell> spells = new List<Spell>()

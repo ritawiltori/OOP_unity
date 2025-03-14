@@ -1,11 +1,7 @@
 # oop unity
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace bai2
+
+namespace oop
 {
     internal class Program
     {

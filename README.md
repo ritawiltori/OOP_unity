@@ -113,6 +113,6 @@
             Console.WriteLine($"{Name} casted! {target.Name} takes {Power} damage and speed reduced.");
         }
     }
-}
+
 
 
